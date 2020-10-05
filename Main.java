@@ -14,7 +14,7 @@ public class Main {
     Scanner input = new Scanner(System.in);
     
     // asks user for a number and records it for later
-    System.out.println("Enter a positive integer to determine its factors:");
+    System.out.println("Please enter a positive integer to determine its factors:");
     int number = input.nextInt();
     //variables here
     int count = 0;
